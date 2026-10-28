@@ -10,3 +10,6 @@ sudo apt install libgtk-4-dev
 ```
 - Exemplos tirados do site:
 https://docs.gtk.org/gtk4/getting_started.html
+
+- Documentação do GTK4:
+https://toshiocp.github.io/Gtk4-tutorial/
