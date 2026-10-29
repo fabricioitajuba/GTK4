@@ -1,10 +1,12 @@
 #include <gtk/gtk.h>
 
 static void print_hello1(GtkWidget *widget,gpointer data){
+
   g_print ("Hello World 1\n");
 }
 
 static void print_hello2(GtkWidget *widget,gpointer data){
+  
   g_print ("Hello World 2\n");
 }
 
