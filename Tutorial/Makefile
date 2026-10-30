@@ -1,4 +1,5 @@
-NOME = ex11
+NOME = proj02
+
 # Variáveis do compilador e flags
 CC = gcc
 CFLAGS = $(shell pkg-config --cflags gtk4)
